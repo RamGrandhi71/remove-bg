@@ -4,7 +4,6 @@ This Python script uses the rembg library to remove the background from an image
 Requirements
 
 Ensure you have the required dependencies installed by running:
-
 pip install -r requirements.txt
 
     rembg==1.0.0
